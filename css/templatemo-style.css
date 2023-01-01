@@ -202,10 +202,9 @@ h1,h2,h3,h4,h5
 
     }
     #home p{
-        color: rgb(228, 218, 218);
+	color:white;
         font-family: 'Booter-ZeroZero', cursive;
         font-size: 30px;
-
     }
 
 
