@@ -391,7 +391,11 @@ h2 {
   padding-bottom: 18px;
 }
 
-#contact address p {
+#contact address p{
+  color: white;
+}
+
+#contact address a{
   color: white;
 }
 
